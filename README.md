@@ -5,7 +5,10 @@ This project detects if a person is wearing a face mask or not. it is based on t
 flow and keras.
 
 ------------------------------------------------------------------------------------
-## Screen Shots:-
+## Screenshots:-
+<img src="images/screenShot1.png" width="500">
+<img src="images/screenShot2.png" width="500">
+<img src="images/screenShot3.png" width="500">
 
 ------------------------------------------------------------------------------------
 ## Prerequisite Libraries:-
