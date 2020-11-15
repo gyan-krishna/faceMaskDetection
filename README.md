@@ -6,9 +6,9 @@ flow and keras.
 
 ------------------------------------------------------------------------------------
 ## Screenshots:-
-<img src="images/screenShot1.png" width="500">
-<img src="images/screenShot2.png" width="500">
-<img src="images/screenShot3.png" width="500">
+<img src="images/screenShot1.PNG" width="300">
+<img src="images/screenShot2.PNG" width="300">
+<img src="images/screenShot3.PNG" width="300">
 
 ------------------------------------------------------------------------------------
 ## Prerequisite Libraries:-
