@@ -1,4 +1,4 @@
-# faceMaskDetection
+# Face Mask Detection
 ------------------------------------------------------------------------------------
 ## short descreption
 This project detects if a person is wearing a face mask or not. it is based on tensor
