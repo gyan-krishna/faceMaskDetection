@@ -15,8 +15,10 @@ flow and keras.
 4. os
 ------------------------------------------------------------------------------------
 ## to run the project:-
-python testing.py
-
+  1. open git bash
+  2. Clone this project **git clone https://github.com/gyan-krishna/faceMaskDetection.git**
+  3. python **faceMaskDetection/python testing.py**
+  4. webcam will open and the program will run.
 ------------------------------------------------------------------------------------
 ## Developed and Maintained by
 [👨 Gyan Krishna]()<br>
